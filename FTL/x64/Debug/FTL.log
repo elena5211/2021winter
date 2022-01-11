@@ -1,0 +1,5 @@
+﻿  FTL.cpp
+C:\Users\eun32\source\repos\FTL\FTL\FTL.h(41,20): warning C4244: '초기화 중': 'double'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\eun32\source\repos\FTL\FTL\FTL.h(42,26): warning C4244: '초기화 중': 'double'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\eun32\source\repos\FTL\FTL\FTL.h(53,33): warning C4244: '초기화 중': 'double'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FTL.vcxproj -> C:\Users\eun32\source\repos\FTL\x64\Debug\FTL.exe

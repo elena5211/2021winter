@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9afc9d50-9486-4dcb-abe9-a1162cb43ecc": {
+      "ProjectGuid": "9afc9d50-9486-4dcb-abe9-a1162cb43ecc",
+      "DisplayName": "FTL",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
